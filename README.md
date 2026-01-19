@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a full-stack finance dashboard project as a Front-end developer..<br>learninf back-end development..
+I'm currently working on a full-stack finance dashboard project as a Front-end developer..<br>learning back-end development..
 
 
 ## 🌐 Socials:
